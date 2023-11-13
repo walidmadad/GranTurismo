@@ -1,3 +1,4 @@
+USE Gran_turismo
 CREATE TABLE VILLE (
     Num_ville INT PRIMARY KEY,
     nom_ville VARCHAR(255),
